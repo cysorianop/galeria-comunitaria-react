@@ -1,0 +1,8 @@
+.size-img {
+    width: 100%;
+    height: 900px;
+}
+
+.custom-height {
+  max-height: 300px; /* Cambia el valor según tus necesidades */
+}

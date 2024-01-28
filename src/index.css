@@ -1,0 +1,129 @@
+.loader-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.8); /* Color de fondo semitransparente */
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 100px;
+  color: #9a5833; /* Color del texto */
+  font-family: cursive;
+}
+
+.title-auth {
+  padding-top: 60px;
+  color:"#713112";
+  font-family:"Arial black"
+}
+
+.carrusel-auth {
+  padding-top: 30px; 
+  padding-left:20px
+}
+
+.title-register {
+   color: #cd966c
+}
+
+.btn-register {
+  background: #9a5833 !important;
+  color: white !important
+}
+
+.btn-google {
+  background:#cd966c !important; 
+  color: white !important
+}
+
+.custom-container { 
+  display: flex;
+  flex: 1;
+  margin-bottom: 20px;
+}
+
+.custom-container-webcam { 
+  flex: 1;
+  margin-right: 10px;
+}
+
+.webcam {
+  width: 100%;
+  height: auto
+}
+
+.webcam-photo {
+  width: 100%;
+  height: auto
+}
+
+.btn-container {
+  text-align: center
+}
+
+.btn-take-photo {
+  margin-right: 10px;
+  border: none;
+}
+
+.btn-cancel-modal-camera {
+  margin-left: 10px
+}
+
+.btn-container-share-modal {
+  text-align: center
+}
+
+.btn-cancel-modal-share {
+  margin-right: 10px
+}
+
+.title-welcome {
+  font-family: Arial;
+  padding-top: 20px;
+  color: #cd966c
+}
+
+.container-btn-cerrar-sesion {
+  padding-top: 10px;
+}
+
+.btn-cerrar-sesion {
+  background: #cd966c !important; 
+  color: white !important
+}
+
+.btn-take-photo-gallery {
+  background-color: #9a5833 !important; 
+  color: white !important; 
+  margin-top: 20px
+}
+
+.btn-upload-photo-gallery {
+  background-color: #cd966c !important; 
+  color: white !important
+}
+
+.card-message-gallery {
+  background-color: #cd966c !important;
+  color: white !important;
+  border: none;
+}
+
+.btn-marron-oscuro {
+  background-color: #9a5833 !important; 
+  color: white !important; 
+  border: none;
+}
+
+.btn-marron-semiclaro {
+  background-color: #cd966c !important; 
+  color: white !important;
+  border: none
+}
+
+.btn-marron-claro {
+  background-color: #b08e6b !important; 
+  color: white !important;
+  border: none
+}
