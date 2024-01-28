@@ -14,7 +14,7 @@ En que consiste este proyecto:
 Descargar el proyecto:
 
 ```
-$ git clone https://github.com/cysorianop/barberia_shop_django.git
+$ git clone https://github.com/cysorianop/galeria-comunitaria-react.git
 ```
 
 Una vez descargado el repositorio, se debe tener instalado:
